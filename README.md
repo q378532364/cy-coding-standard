@@ -1,46 +1,34 @@
----
-layout: home
+# Web 前端代码规范
 
-hero:
-  name: Web前端代码规范
-  text:
-  tagline: 本规范根据Google，腾讯，阿里等大厂规范和团队多年代码习惯编写而成。 好的代码规范不仅可以保证代码干净整洁还可以极大的降低代码出错的概率。
-  image:
-    src: /ico.png
-    alt: Logo image
-  actions:
-    - theme: brand
-      text: 开始
-      link: /docs/name/
 
-features:
-  - icon: 💡
-    title: HTML
-    details: Html规范
-    link: /docs/code/html/
+## HTML 规范
 
-  - icon: 🌈
-    title: CSS
-    details: CSS规范
-    link: /docs/code/css/
+[HTML](./docs/code/html/index.md)
 
-  - icon: 👑
-    title: JavaScript
-    details: JavaScript 规范
-    link: /docs/code/js/
+## CSS 规范
 
-  - icon: 👕
-    title: TypeScript
-    details: TypeScript 规范
-    link: /docs/code/ts/
+[CSS](./docs/code/css/index.md)
 
-  - icon: ☠
-    title: Vue
-    details: Vue 规范
-    link: /docs/code/vue/
+## JavaScript 规范(重点)
 
-  - icon: 🎶
-    title: 更多
-    details: 更多规范
-    link: /docs/git/
----
+[JavaScript](./docs/code/js/index.md)
+
+## TypeScript 规范
+
+[JavaScript](./docs/code/ts/index.md)
+
+## Vue 规范
+
+[Vue](./docs/code/vue/index.md)
+
+## 文件命名规范(重点)
+
+[name](./docs/code/vue/index.md)
+
+## Git 规范
+
+[git](./docs/git/index.md)
+
+## UI 规范 (重点)
+
+[UI](./docs/ui/index.md)
