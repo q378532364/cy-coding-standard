@@ -15,7 +15,7 @@
 
 ## TypeScript 规范
 
-[JavaScript](./docs/code/ts/index.md)
+[TypeScript](./docs/code/ts/index.md)
 
 ## Vue 规范
 
